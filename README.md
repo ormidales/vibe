@@ -12,6 +12,6 @@
 
 <br />
 
-## About
+## Presentation of the project
 
 A curated collection of creative project ideas and technical prompts spanning diverse domains—from tech and biology to crafts and culture. This repository serves as a brainstorming hub and inspiration source for developers seeking their next web application challenge.
